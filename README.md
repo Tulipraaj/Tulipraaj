@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tulipraaj
 - 👀 I’m interested in searching my interests
-- 🌱 I’m currently learning web dev and flutter
-- 💞️ I’m looking to collaborate on projects on web development
+- 🌱 I’m currently learning natural language processing
+- 💞️ I’m looking to collaborate on projects on ML/DL/NLP
 - 📫 How to reach me tulipraaj007@gmail.com
 
 <!---
