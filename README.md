@@ -8,7 +8,5 @@ I'm a data science enthusiast on a quest through the Matrix of machine learning 
 
 * To give an offer that I can't refuse : [tulipraaj007@gmail.com]
 * Connect with me :
-  [[params.social]]
-  icon = "linkedin"
-  icon_pack = "fa"
-  link = "[//linkedin.com/in/USERNAME](https://www.linkedin.com/in/tulip-raaj-k-405400239/)"
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulip-raaj-k-405400239/)
+
